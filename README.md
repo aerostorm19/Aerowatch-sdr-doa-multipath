@@ -14,3 +14,6 @@ The long-term goal is a modular platform that grows from single-antenna DoA into
 
 Actively in development. Core DoA algorithms are validated in simulation; multipath-mitigation and array-based methods are being built out and tested before hardware integration. This is an early-stage research platform, not yet a finished product — progress and limitations are tracked openly as the project evolves.
 
+Contributors:-
+Gaurav Kumar Singh
+Abhijit Rai
