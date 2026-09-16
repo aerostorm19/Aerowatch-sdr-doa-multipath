@@ -16,3 +16,7 @@ The outcome is a quantified error budget identifying which system components dom
 ## Contributors:-
 ### Gaurav Kumar Singh
 ### Abhijit Rai
+
+## Summary
+
+A prior low-cost SDR direction-finding setup produced 15–20 degree bearing errors caused by at least seven confounded, unmeasured factors, making the error impossible to explain or improve against. Aerowatch addresses this by building a controlled platform — a motorized rotator with encoder feedback, fully logged acquisition metadata, a corrected processing pipeline, and automated quality checks — that lets these factors be varied and measured independently. Using this platform, the project compares four direction-finding algorithms on clean and degraded data, characterizes the true antenna pattern and required sampling density, and applies machine learning to identify which acquisition parameters most affect bearing error. The result is a quantified error budget that pinpoints which system components actually limit accuracy, replacing guesswork with evidence to guide future engineering effort.
